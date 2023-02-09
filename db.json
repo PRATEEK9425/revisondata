@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "image_url": "https://media.istockphoto.com/id/1401178460/photo/teacher-helping-a-young-student-with-her-homework-in-the-library-after-school-two-females-are.jpg?b=1&s=170667a&w=0&k=20&c=aPY2PqE2XJtiRo-9WSdDR0DHTy3PgocUK0GVTwoYmcg=",
+      "book_name": "dgdgd",
+      "genre": "History",
+      "edition": "2020",
+      "publisher": "shyam",
+      "cost": "800",
+      "borrowed": "false",
+      "id": 2
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1519962551779-514fa155be9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dW5zcGFsc2h8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+      "book_name": "scs",
+      "genre": "Fiction",
+      "edition": "2020",
+      "publisher": "scsc",
+      "cost": "400",
+      "borrowed": "false",
+      "id": 3
+    },
+    {
+      "image_url": "https://media.istockphoto.com/id/1401178460/photo/teacher-helping-a-young-student-with-her-homework-in-the-library-after-school-two-females-are.jpg?b=1&s=170667a&w=0&k=20&c=aPY2PqE2XJtiRo-9WSdDR0DHTy3PgocUK0GVTwoYmcg=",
+      "book_name": "ssd",
+      "genre": "Fiction",
+      "edition": "2020",
+      "publisher": "sdds",
+      "cost": "500",
+      "borrowed": "false",
+      "id": 4
+    },
+    {
+      "image_url": "https://media.istockphoto.com/id/1401178460/photo/teacher-helping-a-young-student-with-her-homework-in-the-library-after-school-two-females-are.jpg?b=1&s=170667a&w=0&k=20&c=aPY2PqE2XJtiRo-9WSdDR0DHTy3PgocUK0GVTwoYmcg=",
+      "book_name": "hfg",
+      "genre": "Fiction",
+      "edition": "",
+      "publisher": "gfghf",
+      "cost": "700",
+      "borrowed": "true",
+      "id": 5
+    },
+    {
+      "image_url": "https://media.istockphoto.com/id/1401178460/photo/teacher-helping-a-young-student-with-her-homework-in-the-library-after-school-two-females-are.jpg?b=1&s=170667a&w=0&k=20&c=aPY2PqE2XJtiRo-9WSdDR0DHTy3PgocUK0GVTwoYmcg=",
+      "book_name": "fgdfg",
+      "genre": "Science",
+      "edition": "2021",
+      "publisher": "df",
+      "cost": "800",
+      "borrowed": "false",
+      "id": 6
+    },
+    {
+      "image_url": "https://media.istockphoto.com/id/1401178460/photo/teacher-helping-a-young-student-with-her-homework-in-the-library-after-school-two-females-are.jpg?b=1&s=170667a&w=0&k=20&c=aPY2PqE2XJtiRo-9WSdDR0DHTy3PgocUK0GVTwoYmcg=",
+      "book_name": "fgdfg",
+      "genre": "Science",
+      "edition": "2021",
+      "publisher": "df",
+      "cost": "800",
+      "borrowed": "false",
+      "id": 7
+    }
+  ]
+}
